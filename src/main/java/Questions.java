@@ -8,6 +8,7 @@ public class Questions {
          * Replace the 0 in the return statement with the answer you believe to be true for the question below
          * 
          * How many variables are in the class "Vehicle"?
+         * 3 variables in the Vehicle Class
          */
         return 3;
     }
@@ -17,6 +18,7 @@ public class Questions {
          * Replace the 0 in the return statement with the answer you believe to be true for the question below
          * 
          * What line number represents the end of the "accelerate" method? 
+         * Line number 14
          */
         return 14;
     }
@@ -24,6 +26,7 @@ public class Questions {
     String question3(){
         /* 
          * What datatype is expected to be returned in the "honk" method?
+         * Return type of String
          */
         return "String";
     }
